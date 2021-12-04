@@ -1,0 +1,34 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif
+}
+
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.skill-esquerda{
+  height: 100%;
+  width: 50%;
+  float: left;
+  position: static;
+}
+
+.skill-direita{
+  height: 100%;
+  width: 50%;
+  float: right;
+  position: static;
+}
+
+.bloco{
+  float: left
+}
